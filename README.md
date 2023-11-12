@@ -32,3 +32,5 @@ public String uploadFile(@RequestParam("file") MultipartFile file) {
 
 }
 ```
+
+3. 심화과제: application.yml이 아니라 .env에 Access Key 관련 정보를 넣어, 실수로 깃허브에 Public으로 업로드되는 일이 없도록 구성해보세요.
