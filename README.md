@@ -1,6 +1,5 @@
 # ServerStudy5Cloud
-GDSC 5기 Server 파트 스터디 5주차를 위한 실습용 리포지토리입니다.
-Spring Boot에서 AWS S3의 객체를 조회하고, 이미지를 업로드하는 기능을 구현합니다.
+이 리포지토리를 통해서 Spring Boot에서 AWS S3의 객체를 조회하고, 이미지를 업로드하는 기능을 구현할 수 있습니다.
 
 ## To-Do List
 1. application.yml 파일을 수정해주세요.
